@@ -1,5 +1,5 @@
 # Project GoodChip
-![chip image]([html_images/chip.jpeg](https://github.com/taylorhogan/goodchip/raw/main/html_images/chip.jpeg))
+![chip image]([[html_images/chip.jpeg](https://github.com/taylorhogan/goodchip/raw/main/html_images/chip.jpeg)](https://github.com/taylorhogan/goodchip/blob/main/html_images/chip.jpeg))
 ## Example training image
 ![connection image](html_images/t0.svg)
 ## Potentially Congestion can be calculated as a fitness function
